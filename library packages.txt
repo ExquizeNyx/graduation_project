@@ -1,0 +1,10 @@
+library packages versions
+bokeh==3.3.0
+holoviews==1.18.0
+hvplot==0.9.0
+matplotlib==3.7.2
+numpy==1.24.2
+pandas==1.5.3
+panel==1.3.0
+scipy==1.11.3
+statsmodels==0.13.5
