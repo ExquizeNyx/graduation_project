@@ -5,9 +5,9 @@ The aim of this work is to address the challenges in identifying potential causa
 
 ## Project descriptions
 **eQTL and MPRA Integration** <br>
-In this part of the project, we focus on analyzing the relationship between eQTLs and regulatory active DNA regions using MPRA. The aim is to identify whether eQTLs are enriched in regulatory elements and whether these elements are active in the same cell type. This analysis contributes to understanding how genetic variation impacts gene expression through regulatory mechanisms.
+In this part of the project, we focus on analyzing the relationship between eQTLs and regulatory active DNA regions using MPRA. The aim is to identify whether eQTLs are enriched in regulatory elements and whether these elements are active in the same cell type. This analysis contributes to understanding how genetic variation impacts gene expression through regulatory mechanisms. <br>
 **co-eQTL and CRISPRi Integration** <br>
-This analysis investigates co-eQTLs and their potential direct regulatory effects on gene expression using CRISPR-Cas9 interference scRNA-seq screens. By leveraging CRISPRi data, we aim to identify regulatory interactions between co-eGenes and their associated eGenes, offering deeper insights into the regulatory mechanisms of gene expression.
+This analysis investigates co-eQTLs and their potential direct regulatory effects on gene expression using CRISPR-Cas9 interference scRNA-seq screens. By leveraging CRISPRi data, we aim to identify regulatory interactions between co-eGenes and their associated eGenes, offering deeper insights into the regulatory mechanisms of gene expression. <br>
 
 
 ## Notebooks & scripts
