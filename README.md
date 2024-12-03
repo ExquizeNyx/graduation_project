@@ -20,7 +20,7 @@ Notebooks for preprocessing, statistical analysis, enrichment testing, and integ
 - mpra_plasmid_kurtis_grch_buildconversion.ipynb <br>
 - starr_mpra_plasmid_kurtis.ipynb <br>
 - enrichment_scores_mpra_new.ipynb <br>
-- lcl_mpra_inspection_conversion_analysis.ipynb <br>
+- lcl_mpra_inspection_conversion_analysis.ipynb <br><br>
 **CRISPRi notebooks** <br>
 Notebooks for preprocessing, analysis, and integration of CRISPRi data with co-eQTLs. <br>
 - crispr_gene_coexpression_analysis.ipynb <br>
