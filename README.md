@@ -4,7 +4,7 @@ This repository contains data inspection, cleaning, exploratory analysis, and in
 The aim of this work is to address the challenges in identifying potential causal variants for disease risk by combining association studies (eQTL and co-eQTL) with experimental perturbation-based approaches.
 
 ## Project descriptions
-**- eQTL and MPRA Integration**
+**- eQTL and MPRA Integration** <br>
 **- co-eQTL and CRISPRi Integration**
 
 ## Notebooks & scripts
