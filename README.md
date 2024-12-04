@@ -32,4 +32,6 @@ Main analysis notebook and script: <br>
 - assign_crispr_score_to_coeqtls.ipynb <br><br>
 Process data inspection, prepartion & analysis co-eqtl and cripsr datasets: <br>
 - crispr_gene_coexpression_analysis.ipynb <br>
-- gasperini_crispr_analyse.ipynb <br>
+- gasperini_crispr_analyse.ipynb <br> <br>
+Library versions needed to run the notebook are in library_packages.txt
+
