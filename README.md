@@ -13,16 +13,23 @@ This analysis investigates co-eQTLs and their potential direct regulatory effect
 ## Notebooks & scripts
 **MPRA notebooks** <br>
 Notebooks for preprocessing, statistical analysis, enrichment testing, and integration of MPRA data with eQTLs. <br>
+Main analysis notebooks: <br>
+- sc_eqtls_data_preparation.ipynb <br>
+- mpra_plasmid_kurtis_grch_buildconversion.ipynb <br>
+- lcl_mpra_inspection_conversion_analysis.ipynb <br><br>
+- enrichment_scores_mpra_new.ipynb <br>
+
+Process data inspection, prepartion & analysis MPRA datasets: <br>
+- plasmid_coverage_kurtis.ipynb <br>
 - data_inspection_kurtis.ipynb <br>
 - data_inspection_tewhey_lcl_mpra.ipynb <br>
-- sc_eqtls_data_preparation.ipynb <br>
-- plasmid_coverage_kurtis.ipynb <br>
-- mpra_plasmid_kurtis_grch_buildconversion.ipynb <br>
-- starr_mpra_plasmid_kurtis.ipynb <br>
-- enrichment_scores_mpra_new.ipynb <br>
-- lcl_mpra_inspection_conversion_analysis.ipynb <br><br>
+- starr_mpra_plasmid_kurtis.ipynb <br><br>
+
 **CRISPRi notebooks** <br>
 Notebooks for preprocessing, analysis, and integration of CRISPRi data with co-eQTLs. <br>
-- crispr_gene_coexpression_analysis.ipynb <br>
+Main analysis notebook and script: <br>
+- annotate_egene_coegene.py
 - assign_crispr_score_to_coeqtls.ipynb <br>
+Process data inspection, prepartion & analysis co-eqtl and cripsr datasets: <br>
+- crispr_gene_coexpression_analysis.ipynb <br>
 - gasperini_crispr_analyse.ipynb <br>
