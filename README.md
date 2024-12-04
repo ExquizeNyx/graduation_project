@@ -36,7 +36,7 @@ Process data inspection, prepartion & analysis co-eqtl and cripsr datasets: <br>
 Library versions needed to run the notebook are in library_packages.txt
 
 ## License:
-Distributed under MIT license. See the file licence.md for more information.
+Distributed under MIT license. See the file LICENSE for more information.
 
 ## Contact Information:
 For questions feel free to reach out to me at a.h.van.den.broek@st.hanze.nl or anna.vandenbroek@hotmail.com .
