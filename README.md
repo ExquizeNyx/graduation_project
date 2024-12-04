@@ -39,5 +39,5 @@ Library versions needed to run the notebook are in library_packages.txt
 Distributed under MIT license. See the file LICENSE for more information.
 
 ## Contact Information:
-For questions feel free to reach out to me at a.h.van.den.broek@st.hanze.nl or anna.vandenbroek@hotmail.com .
+For questions or access to final output files feel free to reach out to me at a.h.van.den.broek@st.hanze.nl or anna.vandenbroek@hotmail.com .
 
