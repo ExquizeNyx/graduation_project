@@ -16,7 +16,7 @@ Notebooks for preprocessing, statistical analysis, enrichment testing, and integ
 Main analysis notebooks: <br>
 - sc_eqtls_data_preparation.ipynb <br>
 - mpra_plasmid_kurtis_grch_buildconversion.ipynb <br>
-- lcl_mpra_inspection_conversion_analysis.ipynb <br><br>
+- lcl_mpra_inspection_conversion_analysis.ipynb <br>
 - enrichment_scores_mpra_new.ipynb <br>
 
 Process data inspection, prepartion & analysis MPRA datasets: <br>
@@ -29,7 +29,7 @@ Process data inspection, prepartion & analysis MPRA datasets: <br>
 Notebooks for preprocessing, analysis, and integration of CRISPRi data with co-eQTLs. <br>
 Main analysis notebook and script: <br>
 - annotate_egene_coegene.py
-- assign_crispr_score_to_coeqtls.ipynb <br>
+- assign_crispr_score_to_coeqtls.ipynb <br><br>
 Process data inspection, prepartion & analysis co-eqtl and cripsr datasets: <br>
 - crispr_gene_coexpression_analysis.ipynb <br>
 - gasperini_crispr_analyse.ipynb <br>
